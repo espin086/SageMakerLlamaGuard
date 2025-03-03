@@ -1,0 +1,6 @@
+black
+pylint
+radon
+boto3
+litellm
+python-dotenv
