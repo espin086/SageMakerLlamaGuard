@@ -9,7 +9,8 @@ Welcome to the **LlamaGuard 3** deployment guide! This guide will help you set u
 - **Infrastructure as Code**: Effortlessly manage your deployments using Terraform.
 - **Rapid Testing & Iteration**: Quickly test safety evaluations with our easy-to-use script.
 
-![alt img](llamaguard.png)
+![alt img](llamaguard_output.png)
+
 
 ---
 
