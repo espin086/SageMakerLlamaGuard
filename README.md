@@ -106,7 +106,7 @@ Before you begin, ensure you have:
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/AI-Solutions-Lab-LLC/twl.git
+git clone https://github.com/espin086/SageMakerLlamaGuard/tree/main
 cd llamaguard_sagemaker
 ```
 
